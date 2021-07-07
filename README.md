@@ -10,5 +10,5 @@ The created archive is saved in the selected folder.
 
 # Running
 You have 2 parameters to give:
-- The absolute name (or local) of your backup folder.
-- The absolute name (or local) of the folder you want to backup.
+- The absolute **name** of your backup folder.
+- The absolute **name** of the folder you want to backup.
